@@ -65,7 +65,7 @@ int main (int argc, char *argv[])
             profit(forad[a],sida);
             cout << "********************" << endl;
         }
-
+//
     }
     return 0;
 }
